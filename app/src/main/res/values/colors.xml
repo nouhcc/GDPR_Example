@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+   // this colors are for the dialoge
+    <color name="lonodev_colorButton1">#ff5b1d</color>
+    <color name="lonodev_colorTextButton1">#ffffff</color>
+    <color name="lonodev_colorButton2">#644c43</color>
+    <color name="lonodev_colorTextButton2">#ffffff</color>
+    <color name="lonodev_colorHeader">#ff5b1d</color>
+    <color name="lonodev_colorText1">#042f51</color>
+    <color name="lonodev_colorText2">#0489f5</color>
+    <color name="lonodev_colorText3">#e9181c</color>
+    <color name="lonodev_colorText4">#0078d9</color>
+</resources>

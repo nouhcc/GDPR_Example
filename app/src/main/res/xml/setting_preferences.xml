@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+
+    <PreferenceCategory android:title="Other">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="switch_preference_1"
+            android:title="@string/eu_pref_switch_title_pub" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
